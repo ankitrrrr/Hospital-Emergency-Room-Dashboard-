@@ -111,7 +111,9 @@ Allows detailed patient-level exploration.
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+screenshots/Monthly View.png
+screenshots/Consolidated view .png
+screenshots/Patients detail.png
 
 ---
 
