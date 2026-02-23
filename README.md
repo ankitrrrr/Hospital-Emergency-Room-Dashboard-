@@ -111,11 +111,11 @@ Allows detailed patient-level exploration.
 
 ## 📷 Dashboard Preview
 
-![Monthly View](Monthly View.png)
+![Monthly View](Monthly%20View.png)
 
-![Consolidated View](Consolidated view .png)
+![Consolidated View](Consolidated%20view%20.png)
 
-![Patient Details](Patients detail.png)
+![Patient Details](Patients%20detail.png)
 
 ---
 
