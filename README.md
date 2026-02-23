@@ -111,14 +111,11 @@ Allows detailed patient-level exploration.
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
+![Monthly View](Monthly View.png)
 
-![Monthly View](screenshots/Monthly View.png)
+![Consolidated View](Consolidated view .png)
 
-![Consolidated View](screenshots/Consolidated view .png)
-
-![Patient Details](screenshots/Patients detail.png)
-
+![Patient Details](Patients detail.png)
 ---
 
 ## 📁 Repository Structure
