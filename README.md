@@ -116,6 +116,7 @@ Allows detailed patient-level exploration.
 ![Consolidated View](Consolidated view .png)
 
 ![Patient Details](Patients detail.png)
+
 ---
 
 ## 📁 Repository Structure
